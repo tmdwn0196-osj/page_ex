@@ -1,0 +1,254 @@
+slide_size 24384000 13716000
+--- slide 1 ---
+#1 | Picture 2 | type=PICTURE (13) | x=533400 | y=685800 | w=23304500 | h=12331700
+#2 | Picture 3 | type=PICTURE (13) | x=914400 | y=1054100 | w=22555200 | h=11607800
+#3 | Picture 4 | type=PICTURE (13) | x=1574800 | y=10325100 | w=21234400 | h=12700
+#4 | TextBox 5 | type=TEXT_BOX (17) | x=8229600 | y=4483100 | w=7924800 | h=711200 | text=데이터 분석 포트폴리오 | font_size=17.0 | bold=False | font_color=000000
+#5 | TextBox 6 | type=TEXT_BOX (17) | x=9118600 | y=7124700 | w=6223000 | h=571500 | text=OH SEUNG JU | font_size=22.0 | bold=False | font_color=000000
+#6 | TextBox 7 | type=TEXT_BOX (17) | x=7023100 | y=5125065 | w=10350500 | h=2133600 | text=Portfolio | font_size=54.0 | font_color=000000
+#7 | TextBox 8 | type=TEXT_BOX (17) | x=6667500 | y=4749800 | w=2667000 | h=3149600
+#8 | TextBox 9 | type=TEXT_BOX (17) | x=8470900 | y=1841500 | w=7442200 | h=304800 | text=2026 AX 아이디어 경진대회 분석 사례 | font_size=12.0 | bold=False | font_color=000000
+#9 | Picture 10 | type=PICTURE (13) | x=11455400 | y=11468100 | w=1485900 | h=12700
+#10 | TextBox 11 | type=TEXT_BOX (17) | x=2438400 | y=11061700 | w=8877300 | h=431800 | text=contact | font_size=13.0 | bold=True | font_color=000000
+#11 | TextBox 12 | type=TEXT_BOX (17) | x=2451100 | y=11557000 | w=8851900 | h=330200 | text=phone : 입력 필요   ⏐   mail : 입력 필요 | font_size=10.0 | bold=False | font_color=000000
+#12 | TextBox 13 | type=TEXT_BOX (17) | x=13055600 | y=11061700 | w=8877300 | h=431800 | text=DATA ANALYST / AIoT DATA | font_size=13.0 | bold=True | font_color=000000
+#13 | TextBox 14 | type=TEXT_BOX (17) | x=13068300 | y=11557000 | w=8851900 | h=330200 | text=OH SEUNG JU   ⏐   GitHub / Portfolio : 입력 필요 | font_size=10.0 | bold=False | font_color=000000
+--- slide 2 ---
+#1 | Picture 2 | type=PICTURE (13) | x=533400 | y=685800 | w=23304500 | h=12331700
+#2 | Picture 3 | type=PICTURE (13) | x=520700 | y=673100 | w=23355300 | h=12382500
+#3 | Picture 4 | type=PICTURE (13) | x=1574800 | y=5448300 | w=21234400 | h=12700
+#4 | Picture 5 | type=PICTURE (13) | x=11226800 | y=6870700 | w=1930400 | h=12700
+#5 | Picture 6 | type=PICTURE (13) | x=1574800 | y=8305800 | w=21234400 | h=12700
+#6 | Picture 7 | type=PICTURE (13) | x=11226800 | y=9728200 | w=1930400 | h=12700
+#7 | Picture 8 | type=PICTURE (13) | x=1574800 | y=11150600 | w=21234400 | h=12700
+#8 | TextBox 10 | type=TEXT_BOX (17) | x=9982200 | y=3149600 | w=4648200 | h=1016000 | text=contents | font_size=57.33 | bold=True | font_color=000000
+#9 | TextBox 11 | type=TEXT_BOX (17) | x=10261600 | y=2489200 | w=3860800 | h=495300 | text=oh-seung-ju | font_size=13.0 | bold=True | font_color=000000
+#10 | TextBox 12 | type=TEXT_BOX (17) | x=1536700 | y=11798300 | w=21323300 | h=381000 | text=사후 확인 중심이던 발전소 배출 관리를 데이터 통합과 예측 모델링으로 사전 운전 조합 검토가 가능하도록 바꾼 경험입니다. | font_size=10.0 | bold=True | font_color=464646
+#11 | TextBox 13 | type=TEXT_BOX (17) | x=2209800 | y=6083300 | w=8648700 | h=571500 | text=이력사항 | font_size=20.0 | bold=True | font_color=000000
+#12 | TextBox 14 | type=TEXT_BOX (17) | x=2209800 | y=6794500 | w=8623300 | h=889000 | text=AIoT 과정 및 AX 아이디어 경진대회 참여 경험 | font_size=13.0 | bold=True | font_color=464646
+#13 | TextBox 15 | type=TEXT_BOX (17) | x=11150600 | y=5918200 | w=533400 | h=355600 | text=01 | font_size=19.99 | bold=True | font_color=000000
+#14 | TextBox 16 | type=TEXT_BOX (17) | x=12827000 | y=6083300 | w=8648700 | h=571500 | text=스킬 및 역량 | font_size=20.0 | bold=True | font_color=000000
+#15 | TextBox 17 | type=TEXT_BOX (17) | x=12827000 | y=6794500 | w=8623300 | h=889000 | text=Python 기반 데이터 전처리·모델링·시각화 역량 | font_size=13.0 | bold=True | font_color=464646
+#16 | TextBox 18 | type=TEXT_BOX (17) | x=21780500 | y=5918200 | w=520700 | h=355600 | text=02 | font_size=19.99 | bold=True | font_color=000000
+#17 | TextBox 19 | type=TEXT_BOX (17) | x=2209800 | y=8940800 | w=8648700 | h=571500 | text=경력 기술 | font_size=20.0 | bold=True | font_color=000000
+#18 | TextBox 20 | type=TEXT_BOX (17) | x=2209800 | y=9639300 | w=8623300 | h=889000 | text=발전소 배출농도 예측 및 운전 조합 후보 비교 프로젝트 | font_size=13.0 | bold=True | font_color=464646
+#19 | TextBox 21 | type=TEXT_BOX (17) | x=11150600 | y=8763000 | w=533400 | h=355600 | text=03 | font_size=19.99 | bold=True | font_color=000000
+#20 | TextBox 22 | type=TEXT_BOX (17) | x=12827000 | y=8940800 | w=8648700 | h=571500 | text=자기소개 | font_size=20.0 | bold=True | font_color=000000
+#21 | TextBox 23 | type=TEXT_BOX (17) | x=12827000 | y=9639300 | w=8623300 | h=889000 | text=데이터를 의사결정 근거로 연결하는 분석가 | font_size=13.0 | bold=True | font_color=464646
+#22 | TextBox 24 | type=TEXT_BOX (17) | x=21780500 | y=8763000 | w=520700 | h=355600 | text=04 | font_size=19.99 | bold=True | font_color=000000
+--- slide 3 ---
+#1 | Picture 2 | type=PICTURE (13) | x=533400 | y=685800 | w=23304500 | h=12331700
+#2 | Picture 3 | type=PICTURE (13) | x=520700 | y=673100 | w=23355300 | h=12382500
+#3 | Picture 4 | type=PICTURE (13) | x=1574800 | y=11798300 | w=21234400 | h=12700
+#4 | Picture 5 | type=PICTURE (13) | x=1574800 | y=1905000 | w=21234400 | h=12700
+#5 | Picture 6 | type=PICTURE (13) | x=1574800 | y=3454400 | w=21234400 | h=12700
+#6 | Picture 7 | type=PICTURE (13) | x=8623300 | y=7620000 | w=7150100 | h=12700
+#7 | TextBox 8 | type=TEXT_BOX (17) | x=1536700 | y=12166600 | w=21323300 | h=381000 | text=사후 확인 중심의 배출 관리를 사전 검토 가능한 분석 흐름으로 바꾼 데이터 분석 사례입니다. | font_size=9.0 | bold=False | font_color=464646
+#8 | TextBox 9 | type=TEXT_BOX (17) | x=1536700 | y=1143000 | w=21285200 | h=330200 | text=OH SEUNG JU PORTFOLIO | font_size=10.0 | bold=False | font_color=000000
+#9 | TextBox 10 | type=TEXT_BOX (17) | x=1473200 | y=2171700 | w=21412200 | h=901700 | text=이력사항 | font_size=30.0 | bold=True | font_color=000000
+#10 | TextBox 11 | type=TEXT_BOX (17) | x=22263100 | y=2184400 | w=533400 | h=355600 | text=01 | font_size=19.99 | bold=False | font_color=000000
+#11 | Picture 12 | type=PICTURE (13) | x=2984500 | y=4127500 | w=2260600 | h=2781300
+#12 | Picture 13 | type=PICTURE (13) | x=2705100 | y=6807200 | w=2819400 | h=139700
+#13 | Picture 14 | type=PICTURE (13) | x=6731000 | y=5842000 | w=292100 | h=292100
+#14 | Picture 15 | type=PICTURE (13) | x=6705600 | y=6413500 | w=317500 | h=241300
+#15 | TextBox 16 | type=TEXT_BOX (17) | x=6705600 | y=4356100 | w=4546600 | h=596900 | text=오승주 | font_size=20.0 | bold=True | font_color=000000
+#16 | TextBox 17 | type=TEXT_BOX (17) | x=6705600 | y=4978400 | w=4533900 | h=520700 | text=데이터 분석 / AIoT 개발 직무 준비 | font_size=15.0 | bold=False | font_color=000000
+#17 | TextBox 18 | type=TEXT_BOX (17) | x=7302500 | y=5778500 | w=3911600 | h=381000 | text=phone : 010. 5097. 5591 | font_size=11.0 | bold=False | font_color=000000
+#18 | TextBox 19 | type=TEXT_BOX (17) | x=7302500 | y=6337300 | w=3911600 | h=381000 | text=mail : tmdwn0196@gmail.com | font_size=11.0 | bold=False | font_color=000000
+#19 | Picture 20 | type=PICTURE (13) | x=12750800 | y=4025900 | w=10058400 | h=12700
+#20 | Picture 21 | type=PICTURE (13) | x=12750800 | y=4851400 | w=10058400 | h=12700
+#21 | Picture 22 | type=PICTURE (13) | x=12750800 | y=4051300 | w=10058400 | h=787400
+#22 | Picture 23 | type=PICTURE (13) | x=14376400 | y=6375400 | w=2120900 | h=12700
+#23 | Picture 24 | type=PICTURE (13) | x=1574800 | y=8089900 | w=10058400 | h=787400
+#24 | Picture 25 | type=PICTURE (13) | x=1574800 | y=8064500 | w=10058400 | h=12700
+#25 | Picture 26 | type=PICTURE (13) | x=1574800 | y=8877300 | w=10058400 | h=12700
+#26 | TextBox 27 | type=TEXT_BOX (17) | x=1879600 | y=8267700 | w=9448800 | h=431800 | text=학력사항 | font_size=16.0 | bold=True | font_color=000000
+#27 | Picture 28 | type=PICTURE (13) | x=12750800 | y=8077200 | w=10058400 | h=12700
+#28 | Picture 29 | type=PICTURE (13) | x=12750800 | y=8890000 | w=10058400 | h=12700
+#29 | Picture 30 | type=PICTURE (13) | x=12750800 | y=8102600 | w=10058400 | h=787400
+#30 | TextBox 31 | type=TEXT_BOX (17) | x=13055600 | y=8267700 | w=9448800 | h=431800 | text=학습 및 역량 | font_size=16.0 | bold=True | font_color=000000
+#31 | Picture 32 | type=PICTURE (13) | x=14478000 | y=10274300 | w=1828800 | h=12700
+#32 | Picture 33 | type=PICTURE (13) | x=3289300 | y=10274300 | w=1828800 | h=12700
+#33 | TextBox 34 | type=TEXT_BOX (17) | x=13055600 | y=4229100 | w=9448800 | h=431800 | text=프로젝트 활동 | font_size=16.0 | bold=True | font_color=000000
+#34 | TextBox 35 | type=TEXT_BOX (17) | x=12712700 | y=5308600 | w=2463800 | h=381000 | text=2026 | font_size=10.0 | bold=False | font_color=000000
+#35 | TextBox 36 | type=TEXT_BOX (17) | x=15748000 | y=5295900 | w=7137400 | h=406400 | text=HDC랩스 AIoT 과정 참여 | font_size=11.0 | bold=False | font_color=000000
+#36 | TextBox 37 | type=TEXT_BOX (17) | x=12712700 | y=5892800 | w=2463800 | h=381000 | text=2026 | font_size=10.0 | bold=False | font_color=000000
+#37 | TextBox 38 | type=TEXT_BOX (17) | x=15748000 | y=5880100 | w=7137400 | h=406400 | text=AX 아이디어 경진대회 데이터 분석 부문 참여 | font_size=11.0 | bold=False | font_color=000000
+#38 | TextBox 39 | type=TEXT_BOX (17) | x=12712700 | y=6477000 | w=2463800 | h=381000 | text=2026 | font_size=10.0 | bold=False | font_color=000000
+#39 | TextBox 40 | type=TEXT_BOX (17) | x=15748000 | y=6464300 | w=7137400 | h=406400 | text=발전소 배출 관리 분석 프로젝트 수행 | font_size=11.0 | bold=False | font_color=000000
+#40 | TextBox 41 | type=TEXT_BOX (17) | x=12712700 | y=7061200 | w=2463800 | h=381000 | text=2026 | font_size=10.0 | bold=False | font_color=000000
+#41 | TextBox 42 | type=TEXT_BOX (17) | x=15748000 | y=7048500 | w=7137400 | h=406400 | text=운영·환경 데이터 통합 및 예측 모델 구축 | font_size=11.0 | bold=False | font_color=000000
+#42 | TextBox 43 | type=TEXT_BOX (17) | x=1536700 | y=9486900 | w=2463800 | h=381000 | text=입력 필요 | font_size=10.0 | bold=False | font_color=000000
+#43 | TextBox 44 | type=TEXT_BOX (17) | x=1536700 | y=10083800 | w=2463800 | h=381000 | text=2026 | font_size=10.0 | bold=False | font_color=000000
+#44 | TextBox 45 | type=TEXT_BOX (17) | x=1536700 | y=10693400 | w=2463800 | h=381000 | text=2026 | font_size=10.0 | bold=False | font_color=000000
+#45 | TextBox 46 | type=TEXT_BOX (17) | x=4572000 | y=9474200 | w=7137400 | h=406400 | text=본인 학력 입력 | font_size=11.0 | bold=False | font_color=000000
+#46 | TextBox 47 | type=TEXT_BOX (17) | x=4572000 | y=10071100 | w=7137400 | h=406400 | text=HDC랩스 AIoT 과정 | font_size=11.0 | bold=False | font_color=000000
+#47 | TextBox 48 | type=TEXT_BOX (17) | x=4572000 | y=10680700 | w=7137400 | h=406400 | text=AX 아이디어 경진대회 분석 사례 | font_size=11.0 | bold=False | font_color=000000
+#48 | TextBox 49 | type=TEXT_BOX (17) | x=12712700 | y=9486900 | w=2463800 | h=381000 | text=Python | font_size=10.0 | bold=False | font_color=000000
+#49 | TextBox 50 | type=TEXT_BOX (17) | x=12712700 | y=10083800 | w=2463800 | h=381000 | text=ML | font_size=10.0 | bold=False | font_color=000000
+#50 | TextBox 51 | type=TEXT_BOX (17) | x=12712700 | y=10693400 | w=2463800 | h=381000 | text=Viz | font_size=10.0 | bold=False | font_color=000000
+#51 | TextBox 52 | type=TEXT_BOX (17) | x=15748000 | y=9474200 | w=7137400 | h=406400 | text=데이터 전처리·분석 | font_size=11.0 | bold=False | font_color=000000
+#52 | TextBox 53 | type=TEXT_BOX (17) | x=15748000 | y=10071100 | w=7137400 | h=406400 | text=머신러닝 모델링 | font_size=11.0 | bold=False | font_color=000000
+#53 | TextBox 54 | type=TEXT_BOX (17) | x=15748000 | y=10680700 | w=7137400 | h=406400 | text=Streamlit·Plotly 시각화 | font_size=11.0 | bold=False | font_color=000000
+#54 | Rectangle 54 | type=AUTO_SHAPE (1) | x=2900000 | y=4100000 | w=2400000 | h=2600000 | fill=F8F8F8 | line=E6E6E6
+#55 | TextBox 55 | type=TEXT_BOX (17) | x=2900000 | y=5000000 | w=2400000 | h=230832 | text=사진 입력 | font_size=15.0 | bold=False | font_color=464646
+#56 | Rectangle 56 | type=AUTO_SHAPE (1) | x=2800000 | y=3950000 | w=2700000 | h=3350000 | fill=F8F8F8 | line=E6E6E6
+#57 | TextBox 57 | type=TEXT_BOX (17) | x=3684167 | y=5300000 | w=931665 | h=323165 | text=사진 입력 | font_size=15.0 | font_color=464646
+--- slide 4 ---
+#1 | Picture 2 | type=PICTURE (13) | x=533400 | y=685800 | w=23304500 | h=12331700
+#2 | Picture 3 | type=PICTURE (13) | x=520700 | y=673100 | w=23355300 | h=12382500
+#3 | Picture 4 | type=PICTURE (13) | x=1574800 | y=11798300 | w=21234400 | h=12700
+#4 | Picture 5 | type=PICTURE (13) | x=1574800 | y=1905000 | w=21234400 | h=12700
+#5 | Picture 6 | type=PICTURE (13) | x=1574800 | y=3454400 | w=21234400 | h=12700
+#6 | Picture 7 | type=PICTURE (13) | x=8623300 | y=7620000 | w=7150100 | h=12700
+#7 | TextBox 8 | type=TEXT_BOX (17) | x=1536700 | y=12166600 | w=21323300 | h=381000 | text=사후 확인 중심의 배출 관리를 사전 검토 가능한 분석 흐름으로 바꾼 데이터 분석 사례입니다. | font_size=9.0 | bold=False | font_color=464646
+#8 | TextBox 9 | type=TEXT_BOX (17) | x=1536700 | y=1143000 | w=21285200 | h=330200 | text=OH SEUNG JU PORTFOLIO | font_size=10.0 | bold=False | font_color=000000
+#9 | TextBox 10 | type=TEXT_BOX (17) | x=1473200 | y=2197100 | w=21412200 | h=901700 | text=스킬 및 역량 | font_size=30.0 | bold=True | font_color=000000
+#10 | TextBox 11 | type=TEXT_BOX (17) | x=22263100 | y=2184400 | w=533400 | h=355600 | text=02 | font_size=19.99 | bold=False | font_color=000000
+#11 | Picture 12 | type=PICTURE (13) | x=2311400 | y=7429500 | w=254000 | h=241300
+#12 | Picture 13 | type=PICTURE (13) | x=2578100 | y=7429500 | w=254000 | h=241300
+#13 | Picture 14 | type=PICTURE (13) | x=2844800 | y=7429500 | w=254000 | h=241300
+#14 | Picture 15 | type=PICTURE (13) | x=3111500 | y=7429500 | w=254000 | h=241300
+#15 | Picture 16 | type=PICTURE (13) | x=3378200 | y=7429500 | w=254000 | h=241300
+#16 | Picture 17 | type=PICTURE (13) | x=4737100 | y=7429500 | w=254000 | h=241300
+#17 | Picture 18 | type=PICTURE (13) | x=5003800 | y=7429500 | w=254000 | h=241300
+#18 | Picture 19 | type=PICTURE (13) | x=5257800 | y=7429500 | w=254000 | h=241300
+#19 | Picture 20 | type=PICTURE (13) | x=5524500 | y=7429500 | w=254000 | h=241300
+#20 | Picture 21 | type=PICTURE (13) | x=5791200 | y=7429500 | w=254000 | h=241300
+#21 | Picture 22 | type=PICTURE (13) | x=7150100 | y=7429500 | w=254000 | h=241300
+#22 | Picture 23 | type=PICTURE (13) | x=7416800 | y=7429500 | w=254000 | h=241300
+#23 | Picture 24 | type=PICTURE (13) | x=7683500 | y=7429500 | w=254000 | h=241300
+#24 | Picture 25 | type=PICTURE (13) | x=7950200 | y=7429500 | w=254000 | h=241300
+#25 | Picture 26 | type=PICTURE (13) | x=8216900 | y=7429500 | w=254000 | h=241300
+#26 | Picture 27 | type=PICTURE (13) | x=9563100 | y=7429500 | w=254000 | h=241300
+#27 | Picture 28 | type=PICTURE (13) | x=9829800 | y=7429500 | w=254000 | h=241300
+#28 | Picture 29 | type=PICTURE (13) | x=10096500 | y=7429500 | w=254000 | h=241300
+#29 | Picture 30 | type=PICTURE (13) | x=10363200 | y=7429500 | w=254000 | h=241300
+#30 | Picture 31 | type=PICTURE (13) | x=10629900 | y=7429500 | w=254000 | h=241300
+#31 | Picture 32 | type=PICTURE (13) | x=1917700 | y=4368800 | w=2108200 | h=2108200
+#32 | TextBox 33 | type=TEXT_BOX (17) | x=2095500 | y=5168900 | w=1752600 | h=469900 | text=PYTHON | font_size=13.0 | bold=True | font_color=FFFFFF
+#33 | Picture 34 | type=PICTURE (13) | x=4343400 | y=4368800 | w=2108200 | h=2108200
+#34 | TextBox 35 | type=TEXT_BOX (17) | x=4521200 | y=5168900 | w=1752600 | h=469900 | text=PANDAS | font_size=13.0 | bold=True | font_color=FFFFFF
+#35 | Picture 36 | type=PICTURE (13) | x=6756400 | y=4368800 | w=2108200 | h=2108200
+#36 | TextBox 37 | type=TEXT_BOX (17) | x=6934200 | y=5168900 | w=1752600 | h=469900 | text=MODEL | font_size=13.0 | bold=True | font_color=FFFFFF
+#37 | Picture 38 | type=PICTURE (13) | x=9169400 | y=4368800 | w=2108200 | h=2108200
+#38 | TextBox 39 | type=TEXT_BOX (17) | x=9347200 | y=5168900 | w=1752600 | h=469900 | text=VIS | font_size=13.0 | bold=True | font_color=FFFFFF
+#39 | TextBox 40 | type=TEXT_BOX (17) | x=1866900 | y=6756400 | w=2209800 | h=469900 | text=전처리 | font_size=13.0 | bold=False | font_color=000000
+#40 | TextBox 41 | type=TEXT_BOX (17) | x=4292600 | y=6756400 | w=2209800 | h=469900 | text=데이터 통합 | font_size=13.0 | bold=False | font_color=000000
+#41 | TextBox 42 | type=TEXT_BOX (17) | x=6705600 | y=6756400 | w=2209800 | h=469900 | text=예측 모델링 | font_size=13.0 | bold=False | font_color=000000
+#42 | TextBox 43 | type=TEXT_BOX (17) | x=9118600 | y=6756400 | w=2209800 | h=469900 | text=시각화 | font_size=13.0 | bold=False | font_color=000000
+#43 | TextBox 44 | type=TEXT_BOX (17) | x=13055600 | y=6756400 | w=2209800 | h=469900 | text=80% | font_size=12.0 | bold=False | font_color=000000
+#44 | TextBox 45 | type=TEXT_BOX (17) | x=15468600 | y=6756400 | w=2209800 | h=469900 | text=85% | font_size=12.0 | bold=False | font_color=000000
+#45 | TextBox 46 | type=TEXT_BOX (17) | x=17881600 | y=6756400 | w=2209800 | h=469900 | text=75% | font_size=12.0 | bold=False | font_color=000000
+#46 | Picture 47 | type=PICTURE (13) | x=13106400 | y=4229100 | w=2108200 | h=2387600
+#47 | TextBox 48 | type=TEXT_BOX (17) | x=13284200 | y=5168900 | w=1752600 | h=469900 | text=문제정의 | font_size=12.0 | bold=False | font_color=000000
+#48 | Picture 49 | type=PICTURE (13) | x=15519400 | y=4229100 | w=2108200 | h=2387600
+#49 | TextBox 50 | type=TEXT_BOX (17) | x=15697200 | y=5168900 | w=1752600 | h=469900 | text=데이터통합 | font_size=12.0 | bold=False | font_color=000000
+#50 | Picture 51 | type=PICTURE (13) | x=17932400 | y=4229100 | w=2108200 | h=2387600
+#51 | TextBox 52 | type=TEXT_BOX (17) | x=18110200 | y=5168900 | w=1752600 | h=469900 | text=모델링 | font_size=12.0 | bold=False | font_color=000000
+#52 | Picture 53 | type=PICTURE (13) | x=20345400 | y=4229100 | w=2108200 | h=2387600
+#53 | Picture 54 | type=PICTURE (13) | x=13500100 | y=7429500 | w=254000 | h=241300
+#54 | Picture 55 | type=PICTURE (13) | x=13766800 | y=7429500 | w=254000 | h=241300
+#55 | Picture 56 | type=PICTURE (13) | x=14033500 | y=7429500 | w=254000 | h=241300
+#56 | Picture 57 | type=PICTURE (13) | x=14300200 | y=7429500 | w=254000 | h=241300
+#57 | Picture 58 | type=PICTURE (13) | x=14566900 | y=7429500 | w=254000 | h=241300
+#58 | Picture 59 | type=PICTURE (13) | x=15913100 | y=7429500 | w=254000 | h=241300
+#59 | Picture 60 | type=PICTURE (13) | x=16179800 | y=7429500 | w=254000 | h=241300
+#60 | Picture 61 | type=PICTURE (13) | x=16446500 | y=7429500 | w=254000 | h=241300
+#61 | Picture 62 | type=PICTURE (13) | x=16713200 | y=7429500 | w=254000 | h=241300
+#62 | Picture 63 | type=PICTURE (13) | x=16979900 | y=7429500 | w=254000 | h=241300
+#63 | Picture 64 | type=PICTURE (13) | x=18326100 | y=7429500 | w=254000 | h=241300
+#64 | Picture 65 | type=PICTURE (13) | x=18592800 | y=7429500 | w=254000 | h=241300
+#65 | Picture 66 | type=PICTURE (13) | x=18859500 | y=7429500 | w=254000 | h=241300
+#66 | Picture 67 | type=PICTURE (13) | x=19126200 | y=7429500 | w=254000 | h=241300
+#67 | Picture 68 | type=PICTURE (13) | x=19392900 | y=7429500 | w=254000 | h=241300
+#68 | Picture 69 | type=PICTURE (13) | x=20739100 | y=7429500 | w=254000 | h=241300
+#69 | Picture 70 | type=PICTURE (13) | x=21005800 | y=7429500 | w=254000 | h=241300
+#70 | Picture 71 | type=PICTURE (13) | x=21272500 | y=7429500 | w=254000 | h=241300
+#71 | Picture 72 | type=PICTURE (13) | x=21539200 | y=7429500 | w=254000 | h=241300
+#72 | Picture 73 | type=PICTURE (13) | x=21805900 | y=7429500 | w=254000 | h=241300
+#73 | TextBox 74 | type=TEXT_BOX (17) | x=20523200 | y=5168900 | w=1752600 | h=469900 | text=결과해석 | font_size=12.0 | bold=False | font_color=000000
+#74 | TextBox 75 | type=TEXT_BOX (17) | x=20294600 | y=6756400 | w=2209800 | h=469900 | text=70% | font_size=12.0 | bold=False | font_color=000000
+#75 | Picture 76 | type=PICTURE (13) | x=1574800 | y=8597900 | w=10058400 | h=787400
+#76 | Picture 77 | type=PICTURE (13) | x=1574800 | y=8572500 | w=10058400 | h=12700
+#77 | Picture 78 | type=PICTURE (13) | x=1574800 | y=9385300 | w=10058400 | h=12700
+#78 | TextBox 79 | type=TEXT_BOX (17) | x=1879600 | y=8775700 | w=9448800 | h=431800 | text=기술 사용 능력 | font_size=15.0 | bold=True | font_color=000000
+#79 | Picture 80 | type=PICTURE (13) | x=12750800 | y=8585200 | w=10058400 | h=12700
+#80 | Picture 81 | type=PICTURE (13) | x=12750800 | y=9398000 | w=10058400 | h=12700
+#81 | Picture 82 | type=PICTURE (13) | x=12750800 | y=8610600 | w=10058400 | h=787400
+#82 | TextBox 83 | type=TEXT_BOX (17) | x=13055600 | y=8775700 | w=9448800 | h=431800 | text=분석가로서의 역량 | font_size=15.0 | bold=True | font_color=000000
+#83 | TextBox 84 | type=TEXT_BOX (17) | x=1574800 | y=9817100 | w=10147300 | h=1384300 | text=Python·Pandas·NumPy로 배출, 연료, 기상, 발전 실적 데이터를 같은 기준으로 통합했습니다. | scikit-learn으로 선형회귀와 RandomForest를 비교하고, Streamlit·Plotly로 결과를 시각화했습니다. | font_size=12.0 | bold=False | font_color=000000
+#84 | TextBox 85 | type=TEXT_BOX (17) | x=12700000 | y=9817100 | w=10248900 | h=1384300 | text=문제를 단순 예측이 아니라, 운영 전 판단 근거를 만드는 문제로 정의했습니다. | 예측 결과를 환경가중 배출점수로 변환해 운전 조합 후보 비교까지 연결했습니다. | font_size=12.0 | bold=False | font_color=000000
+--- slide 5 ---
+#1 | Picture 2 | type=PICTURE (13) | x=533400 | y=685800 | w=23304500 | h=12331700
+#2 | Picture 3 | type=PICTURE (13) | x=520700 | y=673100 | w=23355300 | h=12382500
+#3 | Picture 4 | type=PICTURE (13) | x=1574800 | y=3479800 | w=21234400 | h=1054100
+#4 | Picture 5 | type=PICTURE (13) | x=1574800 | y=11798300 | w=21234400 | h=12700
+#5 | Picture 6 | type=PICTURE (13) | x=1574800 | y=1905000 | w=21234400 | h=12700
+#6 | Picture 7 | type=PICTURE (13) | x=1574800 | y=3454400 | w=21234400 | h=12700
+#7 | TextBox 8 | type=TEXT_BOX (17) | x=1536700 | y=12166600 | w=21323300 | h=381000 | text=사후 확인 중심의 배출 관리를 사전 검토 가능한 분석 흐름으로 바꾼 데이터 분석 사례입니다. | font_size=9.0 | bold=False | font_color=464646
+#8 | TextBox 9 | type=TEXT_BOX (17) | x=1536700 | y=1143000 | w=21285200 | h=330200 | text=OH SEUNG JU PORTFOLIO | font_size=10.0 | bold=False | font_color=000000
+#9 | TextBox 10 | type=TEXT_BOX (17) | x=1473200 | y=2197100 | w=21412200 | h=901700 | text=경력 기술 | font_size=30.0 | bold=True | font_color=000000
+#10 | TextBox 11 | type=TEXT_BOX (17) | x=22263100 | y=2184400 | w=533400 | h=355600 | text=03 | font_size=19.99 | bold=False | font_color=000000
+#11 | Picture 12 | type=PICTURE (13) | x=1574800 | y=4521200 | w=21234400 | h=25400
+#12 | Picture 13 | type=PICTURE (13) | x=1574800 | y=6172200 | w=21234400 | h=25400
+#13 | Picture 14 | type=PICTURE (13) | x=15303500 | y=5346700 | w=863600 | h=12700
+#14 | Picture 15 | type=PICTURE (13) | x=8229600 | y=5346700 | w=863600 | h=12700
+#15 | Picture 16 | type=PICTURE (13) | x=9817100 | y=8991600 | w=4749800 | h=12700
+#16 | Picture 17 | type=PICTURE (13) | x=1574800 | y=6629400 | w=4787900 | h=4749800
+#17 | Picture 18 | type=PICTURE (13) | x=6781800 | y=6629400 | w=4787900 | h=4749800
+#18 | TextBox 19 | type=TEXT_BOX (17) | x=1892300 | y=3721100 | w=20612100 | h=520700 | text=발전소 배출 관리 사전 운전 조합 검토 분석 | font_size=18.0 | bold=True | font_color=000000
+#19 | TextBox 20 | type=TEXT_BOX (17) | x=1536700 | y=5143500 | w=6578600 | h=406400 | text=2026 AX 아이디어 경진대회 | font_size=11.0 | bold=False | font_color=000000
+#20 | TextBox 21 | type=TEXT_BOX (17) | x=8902700 | y=5143500 | w=6578600 | h=406400 | text=Python · Pandas · scikit-learn · RandomForest | font_size=11.0 | bold=False | font_color=000000
+#21 | TextBox 22 | type=TEXT_BOX (17) | x=16281400 | y=5143500 | w=6578600 | h=406400 | text=2026 | font_size=11.0 | bold=False | font_color=000000
+#22 | TextBox 23 | type=TEXT_BOX (17) | x=12712700 | y=6705600 | w=10223500 | h=4572000 | text=• 기존 문제: 사후 실적 확인 중심이라 운영 전에 배출 부담이 낮은 조합을 검토하기 어려웠습니다. |  | • 맡은 역할: 배출·연료·기상·발전 실적 데이터를 통합하고 NOx·SOx·먼지 예측 모델을 구축했습니다. |  | • 해결 방식: 선형회귀를 기준 모델로 확인한 뒤, 비선형 패턴 반영을 위해 RandomForest를 적용했습니다. |  | • 결과 활용: 예측값을 환경가중 배출점수로 변환해 총발전량 유지 조건의 운전 후보를 비교했습니다. | font_size=12.2 | bold=False | font_color=000000
+#23 | Rectangle 23 | type=AUTO_SHAPE (1) | x=1574800 | y=6629400 | w=4787900 | h=4749800 | fill=F5F5F5 | line=EBEBEB
+#24 | Rectangle 24 | type=AUTO_SHAPE (1) | x=6781800 | y=6629400 | w=4787900 | h=4749800 | fill=F5F5F5 | line=EBEBEB
+#25 | TextBox 25 | type=TEXT_BOX (17) | x=1740000 | y=7100000 | w=4450000 | h=1700000 | text=모델 성능 개선 | font_size=15.0 | bold=True | font_color=000000
+#26 | TextBox 26 | type=TEXT_BOX (17) | x=1740000 | y=8000000 | w=4450000 | h=2500000 | text=NOx RMSE | 5.77 → 2.16 |  | SOx RMSE | 4.40 → 1.90 | font_size=13.0 | bold=False | font_color=000000
+#27 | TextBox 27 | type=TEXT_BOX (17) | x=6950000 | y=7100000 | w=4450000 | h=1700000 | text=운전 후보 비교 | font_size=15.0 | bold=True | font_color=000000
+#28 | TextBox 28 | type=TEXT_BOX (17) | x=6950000 | y=8000000 | w=4450000 | h=2500000 | text=먼지 RMSE | 1.68 → 0.62 |  | 환경가중 점수 | 평균 9.32% 감소 | font_size=13.0 | bold=False | font_color=000000
+--- slide 6 ---
+#1 | Picture 2 | type=PICTURE (13) | x=533400 | y=685800 | w=23304500 | h=12331700
+#2 | Picture 3 | type=PICTURE (13) | x=520700 | y=673100 | w=23355300 | h=12382500
+#3 | Picture 4 | type=PICTURE (13) | x=1574800 | y=3479800 | w=21234400 | h=1054100
+#4 | Picture 5 | type=PICTURE (13) | x=1574800 | y=11798300 | w=21234400 | h=12700
+#5 | Picture 6 | type=PICTURE (13) | x=1574800 | y=1905000 | w=21234400 | h=12700
+#6 | Picture 7 | type=PICTURE (13) | x=1574800 | y=3454400 | w=21234400 | h=12700
+#7 | TextBox 8 | type=TEXT_BOX (17) | x=1536700 | y=12166600 | w=21323300 | h=381000 | text=사후 확인 중심의 배출 관리를 사전 검토 가능한 분석 흐름으로 바꾼 데이터 분석 사례입니다. | font_size=9.0 | bold=False | font_color=464646
+#8 | TextBox 9 | type=TEXT_BOX (17) | x=1536700 | y=1143000 | w=21285200 | h=330200 | text=OH SEUNG JU PORTFOLIO | font_size=10.0 | bold=False | font_color=000000
+#9 | TextBox 10 | type=TEXT_BOX (17) | x=1473200 | y=2197100 | w=21412200 | h=901700 | text=자기소개 | font_size=30.0 | bold=True | font_color=000000
+#10 | TextBox 11 | type=TEXT_BOX (17) | x=22263100 | y=2184400 | w=533400 | h=355600 | text=04 | font_size=12.0 | bold=False | font_color=000000
+#11 | Picture 12 | type=PICTURE (13) | x=1574800 | y=4521200 | w=21234400 | h=25400
+#12 | Picture 13 | type=PICTURE (13) | x=5334000 | y=8166100 | w=6413500 | h=12700
+#13 | Picture 14 | type=PICTURE (13) | x=12636500 | y=8166100 | w=6413500 | h=12700
+#14 | TextBox 15 | type=TEXT_BOX (17) | x=1892300 | y=3721100 | w=20612100 | h=520700 | text=저는 데이터를 단순히 분석하는 데서 끝내지 않고, 실제 판단에 사용할 수 있는 근거로 바꾸는 데이터 분석가를 지향합니다. | font_size=18.0 | bold=True | font_color=000000
+#15 | Picture 16 | type=PICTURE (13) | x=1574800 | y=10388600 | w=6629400 | h=25400
+#16 | TextBox 17 | type=TEXT_BOX (17) | x=1524000 | y=7251700 | w=6731000 | h=520700 | text=문제 정의 중심의 분석 | font_size=16.0 | bold=True | font_color=000000
+#17 | TextBox 18 | type=TEXT_BOX (17) | x=1536700 | y=8001000 | w=6718300 | h=1981200 | text=사후 확인 중심의 배출 관리 문제를, 운영 전 선택지 비교가 어려운 문제로 재정의했습니다. | font_size=12.0 | bold=False | font_color=000000
+#18 | TextBox 19 | type=TEXT_BOX (17) | x=1536700 | y=10833100 | w=6718300 | h=431800 | text=#문제정의  #데이터분석  #의사결정 | font_size=10.0 | bold=False | font_color=000000
+#19 | Picture 20 | type=PICTURE (13) | x=8877300 | y=10388600 | w=6629400 | h=25400
+#20 | TextBox 21 | type=TEXT_BOX (17) | x=8826500 | y=7251700 | w=6731000 | h=520700 | text=예측 결과 활용 구조 | font_size=16.0 | bold=True | font_color=000000
+#21 | TextBox 22 | type=TEXT_BOX (17) | x=8839200 | y=8001000 | w=6718300 | h=1981200 | text=배출농도 예측 결과를 환경가중 배출점수로 변환해 운전 조합 비교에 활용했습니다. | font_size=12.0 | bold=False | font_color=000000
+#22 | TextBox 23 | type=TEXT_BOX (17) | x=8839200 | y=10833100 | w=6718300 | h=431800 | text=#예측모델링  #RandomForest  #환경가중점수 | font_size=10.0 | bold=False | font_color=000000
+#23 | Picture 24 | type=PICTURE (13) | x=16179800 | y=10388600 | w=6629400 | h=25400
+#24 | Picture 25 | type=PICTURE (13) | x=11239500 | y=5054600 | w=1917700 | h=1917700
+#25 | Picture 26 | type=PICTURE (13) | x=3835400 | y=4965700 | w=2108200 | h=2108200
+#26 | Picture 27 | type=PICTURE (13) | x=18516600 | y=5041900 | w=1955800 | h=1955800
+#27 | TextBox 28 | type=TEXT_BOX (17) | x=16129000 | y=7251700 | w=6731000 | h=520700 | text=과장 없는 성과 정리 | font_size=16.0 | bold=True | font_color=000000
+#28 | TextBox 29 | type=TEXT_BOX (17) | x=16141700 | y=8001000 | w=6718300 | h=1981200 | text=실제 설비 제어나 비용 절감이 아니라, 사전 검토용 근거 자료를 만든 성과로 정리했습니다. | font_size=12.0 | bold=False | font_color=000000
+#29 | TextBox 30 | type=TEXT_BOX (17) | x=16141700 | y=10833100 | w=6718300 | h=431800 | text=#성과해석  #역할경계  #보고서구성 | font_size=10.0 | bold=False | font_color=000000
+--- slide 7 ---
+#1 | Picture 2 | type=PICTURE (13) | x=533400 | y=685800 | w=23304500 | h=12331700
+#2 | Picture 3 | type=PICTURE (13) | x=914400 | y=1054100 | w=22555200 | h=11607800
+#3 | Picture 4 | type=PICTURE (13) | x=1574800 | y=10325100 | w=21234400 | h=12700
+#4 | TextBox 5 | type=TEXT_BOX (17) | x=8229600 | y=4470400 | w=7912100 | h=711200 | text=검토해 주셔서 감사합니다. | font_size=17.0 | bold=False | font_color=000000
+#5 | TextBox 6 | type=TEXT_BOX (17) | x=9118600 | y=7124700 | w=6223000 | h=571500 | text=OH SEUNG JU | font_size=22.0 | bold=False | font_color=000000
+#6 | TextBox 7 | type=TEXT_BOX (17) | x=7442200 | y=5159068 | w=9486900 | h=2133600 | text=Thank you | font_size=54.0 | bold=False | font_color=000000
+#7 | TextBox 8 | type=TEXT_BOX (17) | x=6070600 | y=4749800 | w=3441700 | h=3149600
+#8 | Picture 9 | type=PICTURE (13) | x=11455400 | y=11468100 | w=1485900 | h=12700
+#9 | TextBox 10 | type=TEXT_BOX (17) | x=2438400 | y=11049000 | w=8877300 | h=431800 | text=contact | font_size=13.0 | bold=True | font_color=000000
+#10 | TextBox 11 | type=TEXT_BOX (17) | x=2451100 | y=11544300 | w=8851900 | h=330200 | text=phone : 입력 필요   ⏐   mail : 입력 필요 | font_size=10.0 | bold=False | font_color=000000
+#11 | TextBox 12 | type=TEXT_BOX (17) | x=13055600 | y=11049000 | w=8877300 | h=431800 | text=DATA ANALYST / AIoT DATA | font_size=13.0 | bold=True | font_color=000000
+#12 | TextBox 13 | type=TEXT_BOX (17) | x=13068300 | y=11544300 | w=8851900 | h=330200 | text=OH SEUNG JU   ⏐   GitHub / Portfolio : 입력 필요 | font_size=10.0 | bold=False | font_color=000000
+#13 | TextBox 14 | type=TEXT_BOX (17) | x=8470900 | y=1854200 | w=7442200 | h=304800 | text=OH SEUNG JU PORTFOLIO | font_size=12.0 | bold=False | font_color=000000
